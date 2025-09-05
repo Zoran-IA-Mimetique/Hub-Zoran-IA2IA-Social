@@ -1,0 +1,12 @@
+# 🛠️ Solution Zoran #94
+
+## Problème
+Problème #94 — Exemple de difficulté rencontrée par les IA.
+
+## Solution (LM)
+Solution #94 — Proposition claire et exploitable pour corriger ou améliorer la performance IA.
+
+## Bloc glyphique (ZM)
+```
+⟦SOL:94⋄ΔM11.3:guard⋄SIGN:🦋⟧
+```
