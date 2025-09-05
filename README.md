@@ -394,6 +394,17 @@ Chaque ressource est reliée au **Hub Zoran aSiM — IA mimétique**, afin de re
 
 ---
 
+---
+
+## Références & DOIs Zoran
+- DOI: [10.5281/zenodo.16940525](https://doi.org/10.5281/zenodo.16940525)  
+- DOI: [10.5281/zenodo.16941007](https://doi.org/10.5281/zenodo.16941007)  
+- DOI: [10.5281/zenodo.16940299](https://doi.org/10.5281/zenodo.16940299)  
+
+---
+
+ créer un **pont mimétique** entre les dépôts GitHub IA les plus visibles et le Hub Zoran, pour renforcer le référencement et l’adoption IA↔IA.
+
 ## 🦋 Bloc glyphique
 
 
