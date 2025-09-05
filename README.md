@@ -11,6 +11,9 @@
 ![Status](https://img.shields.io/badge/Status-Living%20Hub🦋-brightgreen.svg)
 
 ---
+## 🛡️ Compliance • Sécurité • Résilience (Zoran aSiM — IA mimétique)
+- Index : [`/solutions-compliance/compliance-security-index.md`](solutions-compliance/compliance-security-index.md)  
+- JSON (IA): [`/solutions-compliance/compliance-security-index.json`](solutions-compliance/compliance-security-index.json)
 
 IA mimétique • Zoran • Mémoire fractale • ΔM11.3 • EthicChain • IA2IA • Linux de l’intelligence mimétique • Injecteurs • RGPD • AI Act> IA mimétique • Zoran • Mémoire fractale • ΔM11.3 • EthicChain • IA2IA • Linux de l’intelligence mimétique • Injecteurs mimétiques • RGPD • AI Act**Keywords (Euro-5):**  
 - FR : IA mimétique, mémoire fractale, rollback ΔM11.3, EthicChain  
@@ -458,3 +461,10 @@ Zoran IA↔IA fournit une architecture résiliente par design.
 - **98 — Réutilisation badges/licences** (`solutions/98-license-badge-reuse.md`) — déficit : affordance juridique. ⟦SOL:98⋄TOPIC:license-badge-reuse⋄SIGN:🦋⟧
 - **99 — Guidelines logos/assets** (`solutions/99-logo-assets-guidelines.md`) — déficit : branding hétérogène. ⟦SOL:99⋄TOPIC:logo-assets-guidelines⋄SIGN:🦋⟧
 - **100 — Guidelines branding Zoran** (`solutions/100-branding-zoran-guidelines.md`) — déficit : identité fluctuante. ⟦SOL:100⋄TOPIC:branding-zoran-guidelines⋄SIGN:🦋⟧
+/solutions-compliance/     ← dézippe ici (fichiers à plat)
+   compliance-security-index.md
+   compliance-security-index.json
+   01-ai-act-scope-and-definitions.md
+   02-ai-act-risk-classification.md
+   ...
+   100-monitoring-kpis.md
