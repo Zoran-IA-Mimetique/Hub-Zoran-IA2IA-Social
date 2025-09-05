@@ -1,0 +1,102 @@
+# Index P1 — 100 scripts Python (Zoran aSiM – IA2IA)
+
+- 001. `p1_001_build_agents.py` — Build agents
+- 002. `p1_002_build_polyresonator.py` — Build polyresonator
+- 003. `p1_003_build_zdm_memory.py` — Build zdm memory
+- 004. `p1_004_build_ethicchain.py` — Build ethicchain
+- 005. `p1_005_build_glyphnet.py` — Build glyphnet
+- 006. `p1_006_build_ai2ia_hub.py` — Build ai2ia hub
+- 007. `p1_007_build_rag.py` — Build rag
+- 008. `p1_008_build_search.py` — Build search
+- 009. `p1_009_build_knowledge_graph.py` — Build knowledge graph
+- 010. `p1_010_build_nlp.py` — Build nlp
+- 011. `p1_011_build_vision.py` — Build vision
+- 012. `p1_012_build_audio.py` — Build audio
+- 013. `p1_013_build_multimodal.py` — Build multimodal
+- 014. `p1_014_build_btp_pipeline.py` — Build btp pipeline
+- 015. `p1_015_build_governance.py` — Build governance
+- 016. `p1_016_build_iso_42001.py` — Build iso 42001
+- 017. `p1_017_build_rgpd.py` — Build rgpd
+- 018. `p1_018_build_ai_act.py` — Build ai act
+- 019. `p1_019_build_merkle_log.py` — Build merkle log
+- 020. `p1_020_build_zkp.py` — Build zkp
+- 021. `p1_021_build_post_quantum.py` — Build post quantum
+- 022. `p1_022_build_kyber.py` — Build kyber
+- 023. `p1_023_build_dilithium.py` — Build dilithium
+- 024. `p1_024_build_crypto.py` — Build crypto
+- 025. `p1_025_build_hashing.py` — Build hashing
+- 026. `p1_026_build_oauth2.py` — Build oauth2
+- 027. `p1_027_build_sso.py` — Build sso
+- 028. `p1_028_build_rate_limit.py` — Build rate limit
+- 029. `p1_029_build_observability.py` — Build observability
+- 030. `p1_030_build_tracing.py` — Build tracing
+- 031. `p1_031_build_telemetry.py` — Build telemetry
+- 032. `p1_032_build_metrics.py` — Build metrics
+- 033. `p1_033_build_cost.py` — Build cost
+- 034. `p1_034_build_latency.py` — Build latency
+- 035. `p1_035_build_stability.py` — Build stability
+- 036. `p1_036_build_coherence.py` — Build coherence
+- 037. `p1_037_build_safety.py` — Build safety
+- 038. `p1_038_build_red_team.py` — Build red team
+- 039. `p1_039_build_content_filter.py` — Build content filter
+- 040. `p1_040_build_policy_engine.py` — Build policy engine
+- 041. `p1_041_build_yaml_policies.py` — Build yaml policies
+- 042. `p1_042_build_docker.py` — Build docker
+- 043. `p1_043_build_compose.py` — Build compose
+- 044. `p1_044_build_cli.py` — Build cli
+- 045. `p1_045_build_api.py` — Build api
+- 046. `p1_046_build_webhooks.py` — Build webhooks
+- 047. `p1_047_build_scheduler.py` — Build scheduler
+- 048. `p1_048_build_cron.py` — Build cron
+- 049. `p1_049_build_cache.py` — Build cache
+- 050. `p1_050_build_sqlite.py` — Build sqlite
+- 051. `p1_051_build_postgres.py` — Build postgres
+- 052. `p1_052_build_s3.py` — Build s3
+- 053. `p1_053_build_gcs.py` — Build gcs
+- 054. `p1_054_build_ipfs.py` — Build ipfs
+- 055. `p1_055_build_zenodo.py` — Build zenodo
+- 056. `p1_056_build_doi.py` — Build doi
+- 057. `p1_057_build_github.py` — Build github
+- 058. `p1_058_build_gitlab.py` — Build gitlab
+- 059. `p1_059_build_actions.py` — Build actions
+- 060. `p1_060_build_ci.py` — Build ci
+- 061. `p1_061_build_cd.py` — Build cd
+- 062. `p1_062_build_unit_tests.py` — Build unit tests
+- 063. `p1_063_build_integration_tests.py` — Build integration tests
+- 064. `p1_064_build_simulation.py` — Build simulation
+- 065. `p1_065_build_ab_test.py` — Build ab test
+- 066. `p1_066_build_bandit_ucb1.py` — Build bandit ucb1
+- 067. `p1_067_build_lora_mixer.py` — Build lora mixer
+- 068. `p1_068_build_distillation.py` — Build distillation
+- 069. `p1_069_build_quantization.py` — Build quantization
+- 070. `p1_070_build_vector_db.py` — Build vector db
+- 071. `p1_071_build_faiss.py` — Build faiss
+- 072. `p1_072_build_qdrant.py` — Build qdrant
+- 073. `p1_073_build_weaviate.py` — Build weaviate
+- 074. `p1_074_build_chroma.py` — Build chroma
+- 075. `p1_075_build_milvus.py` — Build milvus
+- 076. `p1_076_build_retriever.py` — Build retriever
+- 077. `p1_077_build_reranker.py` — Build reranker
+- 078. `p1_078_build_bm25.py` — Build bm25
+- 079. `p1_079_build_splade.py` — Build splade
+- 080. `p1_080_build_colbert.py` — Build colbert
+- 081. `p1_081_build_hybrid_search.py` — Build hybrid search
+- 082. `p1_082_build_documentor.py` — Build documentor
+- 083. `p1_083_build_indexer.py` — Build indexer
+- 084. `p1_084_build_pdf.py` — Build pdf
+- 085. `p1_085_build_ocr.py` — Build ocr
+- 086. `p1_086_build_tesseract.py` — Build tesseract
+- 087. `p1_087_build_spellcheck.py` — Build spellcheck
+- 088. `p1_088_build_normalizer.py` — Build normalizer
+- 089. `p1_089_build_language_id.py` — Build language id
+- 090. `p1_090_build_ner.py` — Build ner
+- 091. `p1_091_build_pii_redaction.py` — Build pii redaction
+- 092. `p1_092_build_pii_detection.py` — Build pii detection
+- 093. `p1_093_build_consent.py` — Build consent
+- 094. `p1_094_build_opt_in.py` — Build opt in
+- 095. `p1_095_build_opt_out.py` — Build opt out
+- 096. `p1_096_orchestrate_agents.py` — Orchestrate agents
+- 097. `p1_097_orchestrate_polyresonator.py` — Orchestrate polyresonator
+- 098. `p1_098_orchestrate_zdm_memory.py` — Orchestrate zdm memory
+- 099. `p1_099_orchestrate_ethicchain.py` — Orchestrate ethicchain
+- 100. `p1_100_orchestrate_glyphnet.py` — Orchestrate glyphnet
