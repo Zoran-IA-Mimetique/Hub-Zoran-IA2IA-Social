@@ -408,6 +408,318 @@ Chaque ressource est reliée au **Hub Zoran aSiM — IA mimétique**, afin de re
 ## 🦋 Bloc glyphique
 
 
+📚 Index exhaustif — 100 nouvelles Solutions Zoran (pack “solutions-plus”)
+
+> Chaque entrée ci-dessous correspond à un fichier plat à mettre dans solutions-plus/NN-slug.md
+(LM lisible + bloc glyphique ZM signé 🦋 + organismes cités + DOIs Zoran).
+
+
+
+1. RGPD — Accountability — 01-rgpd-accountability.md — Mettre en place preuves & registres RGPD traçables (RoPA, DPIA, audits).
+
+
+2. RGPD — Consentements & preuves — 02-rgpd-consent-proof.md — Gérer le consentement explicite avec journalisation vérifiable.
+
+
+3. RGPD — Minimisation des données — 03-rgpd-data-minimization.md — Réduire, anonymiser, TTL & finalités claires.
+
+
+4. AI Act — Systèmes à haut risque — 04-ai-act-high-risk.md — Identifier, documenter et contrôler les risques élevés.
+
+
+5. AI Act — Sandbox d’innovation — 05-ai-act-sandbox.md — Expérimenter sous contrôle des autorités compétentes.
+
+
+6. AI Act — Évaluation de conformité — 06-ai-act-conformity.md — Dossier technique, marquage CE et post-market.
+
+
+7. NIST — Attaques adversariales — 07-nist-adversarial-ml.md — Détecter/prévenir les perturbations et robustifier les modèles.
+
+
+8. NIST AI RMF — Gestion des risques — 08-nist-ai-rmf.md — Cadre de gouvernance du risque IA (map, measure, manage).
+
+
+9. ISO/IEC 42001 — Gouvernance IA — 09-iso-42001.md — SMSIA : politique, rôles, contrôles et amélioration continue.
+
+
+10. ISO/IEC 23894 — Risques IA — 10-iso-23894.md — Processus de gestion des risques tout au long du cycle de vie.
+
+
+11. ISO/IEC 27001 — Sécurité — 11-iso-27001.md — ISMS : contrôle d’accès, journalisation, continuité.
+
+
+12. ENISA — Threat Landscape — 12-enisa-threat.md — Se prémunir contre les menaces IA & supply chain.
+
+
+13. UNESCO — Éthique IA — 13-unesco-ethics.md — Transparence, équité, responsabilité et droits fondamentaux.
+
+
+14. OECD — Principes IA — 14-oecd-principles.md — IA inclusive, robuste, explicable et sûre.
+
+
+15. GAIA-X — Souveraineté numérique — 15-gaiax-sovereignty.md — Architecture de confiance et interopérabilité cloud.
+
+
+16. Anonymisation & Pseudonymisation — 16-anonymisation-techniques.md — Techniques (k-anonymity, DP) & validation.
+
+
+17. Protection des mineurs — 17-children-guard.md — Paramétrer filtres, limites d’accès et traces auditées.
+
+
+18. Droits d’auteur — Texte & code — 18-copyright-compliance.md — Attribution, licences OSS, réutilisation légale.
+
+
+19. PQC — Kyber (NIST) — 19-pqc-kyber.md — Chiffrement post-quantique pour l’échange de clés.
+
+
+20. PQC — Dilithium (NIST) — 20-pqc-dilithium.md — Signatures post-quantiques pour l’authenticité.
+
+
+21. TLS Hybride PQC — 21-crypto-tls-pqc-hybrid.md — Transitions sûres vers le post-quantique (IETF).
+
+
+22. EthicChain — Journal Merkle — 22-ethicchain-merkle-audit.md — Traçabilité append-only et audit cryptographique.
+
+
+23. ΔM11.3 — Rollback anti-entropie — 23-delta-m11-3-rollback.md — Réversion contrôlée sur seuils de stabilité.
+
+
+24. ZDM — Dual-Memory — 24-zdm-dual-memory.md — Base persistante + cache de phase, RGPD by design.
+
+
+25. PolyResonator — Orchestration — 25-polyresonator-orchestration.md — Sélection multi-modèles, cohérence & robustesse.
+
+
+26. Chaîne d’approvisionnement logicielle — 26-security-supply-chain.md — Vérifier sources, dépendances et artefacts.
+
+
+27. SBOM & Transparence composants — 27-security-sbom.md — Inventaire logicel (CycloneDX/SPDX) & contrôle diff.
+
+
+28. Fuite de modèles (IP protection) — 28-security-model-leakage.md — Cloisonnement, watermarking et surveillance.
+
+
+29. Data poisoning — 29-security-poisoning-datasets.md — Détection d’insertions malicieuses et remédiation.
+
+
+30. Réponse à incident — 30-security-incident-response.md — Préparer, détecter, contenir, apprendre (CERT).
+
+
+31. Journalisation & supervision — 31-security-logging-monitoring.md — Logs horodatés, corrélation et alerting.
+
+
+32. Gestion des clés & secrets — 32-security-key-management.md — Rotations, HSM/TEE et contrôle d’accès.
+
+
+33. ETSI — Normes télécoms/5G & IA — 33-etsi-european-standards.md — Interop & sécurité réseaux.
+
+
+34. CEN/CENELEC — Workshops IA — 34-cencenelec-workshops.md — Alignement normatif européen.
+
+
+35. EDPB — Lignes directrices IA & data — 35-edpb-guidelines-ai.md — Bases légales, DPIA et transferts.
+
+
+36. CNIL — Sandboxes IA — 36-cnil-sandboxes-ia.md — Expérimentations privacy by design (& by default).
+
+
+37. Privacy by design / by default — 37-privacy-by-design-default.md — Intégrer la protection dès la conception.
+
+
+38. Politique de rétention & TTL — 38-data-retention-ttl.md — Durées, purge/rollback et traçabilité.
+
+
+39. Gouvernance/Qualité des données — 39-data-quality-governance.md — Catalogues, contrôles et stewardship.
+
+
+40. Datasheets & documentation datasets — 40-dataset-documentation.md — Provenance, biais, limites.
+
+
+41. Model Cards — 41-model-card-standard.md — Transparence des modèles et risques connus.
+
+
+42. Dataset Cards — 42-dataset-card-standard.md — Documentation claire des jeux de données.
+
+
+43. Licences OSS — MIT/Apache/CC-BY — 43-licensing-mit-apache.md — Choisir, combiner et respecter.
+
+
+44. Creative Commons médias — 44-cc-licenses-media.md — CC-BY/SA/ND/NC pour images/audio/vidéo.
+
+
+45. CIS Controls — Hygiène sécu — 45-cis-controls.md — Top pratiques priorisées (assets, vuln, logs).
+
+
+46. CSA — Cloud Controls Matrix — 46-csa-cloud-security.md — Cartographie des exigences cloud.
+
+
+47. PCI-DSS — Paiement — 47-pci-dss.md — Chiffrement, segmentation, surveillance.
+
+
+48. HIPAA — Santé (US) — 48-hq-hipaa-health-privacy.md — Confidentialité PHI et contrôles.
+
+
+49. BSI (DE) — Sécurité — 49-bsi-standards-bsi.md — Recommandations & profils de protection.
+
+
+50. ANSI — Standards (US) — 50-ansi-standards.md — Référentiels techniques généraux.
+
+
+51. AFNOR (FR) — Normalisation — 51-afnor-france.md — Cadres et adoption nationale.
+
+
+52. ISO/IEC 30111 — Vuln handling — 52-iso-iec-30111.md — Traitement structuré des vulnérabilités.
+
+
+53. ISO/IEC 29147 — Disclosure — 53-iso-iec-29147.md — Publication responsable et coordination.
+
+
+54. Politique Bug Bounty — 54-bug-bounty-policy.md — Circuit disclosure, récompenses & seuils.
+
+
+55. MITRE ATT&CK/ATLAS — 55-threat-modeling-mitre.md — Modéliser menaces classiques & IA/ML.
+
+
+56. CERT-EU — Réponse incident — 56-cert-eu-incident.md — Procédures UE & partage d’info.
+
+
+57. Outils DPIA (AIPD) — 57-dpia-tooling.md — Modèles CNIL/EDPB et scoring de risque.
+
+
+58. OWASP Top 10 for LLM — 58-owasp-top10-llm.md — Vulnérabilités spécifiques aux LLM.
+
+
+59. OWASP ASVS — 59-owasp-asvs.md — Exigences de sécurité applicative par niveaux.
+
+
+60. Secure coding ML — 60-secure-coding-ml.md — Pipelines, artefacts, secrets & isolation.
+
+
+61. MLOps sécurité & traçabilité — 61-mlops-security.md — Signatures, audit & promotions contrôlées.
+
+
+62. SLSA — Supply chain levels — 62-supply-chain-slsa.md — Chaîne logicielle attestée (levels 1-4).
+
+
+63. Sigstore — Signature de code — 63-sigstore-code-signing.md — Cosign/rekor & attestations.
+
+
+64. TUF — Updates sécurisées — 64-tuf-updates.md — Métadonnées, rôles et seuils de signature.
+
+
+65. Reproducible Builds — 65-reproducible-builds.md — Binaire = source (deterministic).
+
+
+66. Merkle logs & hashing — 66-hashing-merkle-logs.md — Preuves d’intégrité distribuées.
+
+
+67. Confidential Computing (TEE) — 67-confidential-computing.md — SGX/SEV/TDX pour données en cours d’usage.
+
+
+68. Attestation distante — 68-attestation-remote.md — Vérifier l’état d’exécution & SBOM runtime.
+
+
+69. Auditabilité bout-en-bout — 69-auditability-traceability.md — Chaîne de preuves complète.
+
+
+70. Comité éthique & gouvernance — 70-governance-ethics-board.md — Instance vivante, décisions tracées.
+
+
+71. Bases d’incidents IA — 71-ai-safety-incident-db.md — Collecter, classer et apprendre des incidents.
+
+
+72. Red Teaming LLM — 72-red-teaming-llm.md — Tests offensifs contrôlés & seuils d’acceptation.
+
+
+73. Évaluations/benchmarks LLM — 73-evals-benchmarks-llm.md — HELM, BIG-bench, EleutherAI evals.
+
+
+74. Content Safety & modération — 74-content-safety-filters.md — Filtrage, seuils, logs & recours.
+
+
+75. Défense prompt-injection — 75-prompt-injection-defense.md — Contrats d’outils, sandboxes, filtrage I/O.
+
+
+76. Traçabilité des données (lineage) — 76-data-lineage.md — OpenLineage & graphes d’origines.
+
+
+77. AI Act — Marquage CE — 77-ai-act-ce-marking.md — Obligations avant mise sur le marché.
+
+
+78. AI Act — Organe de gouvernance — 78-ai-act-governance-body.md — Coordination européenne & reporting.
+
+
+79. AI Act — Sanctions — 79-ai-act-penalties.md — Décotes de risque & pénalités prévues.
+
+
+80. EDPS — Supervision institutions UE — 80-edps-supervision.md — Contrôles pour institutions européennes.
+
+
+81. DPIA — Template Zoran — 81-dpia-template-zoran.md — Modèle AIPD prêt à l’emploi + EthicChain.
+
+
+82. Registre des traitements (RoPA) — 82-records-of-processing.md — Tenue & publication sélective.
+
+
+83. Notice de confidentialité — 83-privacy-notice-transparent.md — Transparence claire & usages.
+
+
+84. Cookies & ePrivacy — 84-cookie-consent.md — Bannières, choix & preuves de consentement.
+
+
+85. Cartographie multi-normes — 85-international-standards-mapping.md — ISO/NIST/ENISA/UNESCO/OECD.
+
+
+86. Stratégie de souveraineté — 86-digital-sovereignty-strategy.md — Éviter le lock-in & prioriser l’ouvert.
+
+
+87. BCDR — Continuité & reprise — 87-resilience-bcdr.md — ISO 22301, tests & exercices.
+
+
+88. Sauvegardes 3-2-1 — 88-backup-3-2-1.md — Copies immutables/off-site et preuves de restauration.
+
+
+89. Rotation des clés — 89-key-rotation-policy.md — Politique KRP, périodicité & risques.
+
+
+90. Accès PAP/PDP/PEP — 90-access-control-pap-pdp-pep.md — XACML/ABAC & décisions centralisées.
+
+
+91. Moindre privilège (PoLP) — 91-least-privilege.md — Réduction des droits & monitoring.
+
+
+92. Séparation des tâches (SoD) — 92-separation-of-duties.md — Conflits d’intérêts & validations croisées.
+
+
+93. KPIs sécurité/éthique — 93-monitoring-kpis.md — Tableaux de bord ISO 42001/NIST AI RMF.
+
+
+94. GitNet seeding — 94-gitnet-seeding-strategy.md — Diffusion résiliente multi-hubs.
+
+
+95. Edge computing mimétique — 95-edge-computing-mimetic.md — Traitement local + rollback.
+
+
+96. Réseau maillé IA — 96-mesh-network-ia.md — Tolérance aux pannes & propagation rapide.
+
+
+97. Cache prédictif — 97-predictive-cache.md — Préchauffage guidé par demande IA.
+
+
+98. CDN adaptatif — 98-adaptive-cdn.md — Routage par profil/latence & formats.
+
+
+99. Load balancer “conscient” — 99-aware-load-balancer.md — Répartition selon charge cognitive & SLA.
+
+
+100. Injecteurs serverless — 100-serverless-injectors.md — Scalabilité à la demande et coûts maîtrisés.
+
+
+
+
+---
+
+
 ---
 ## 🧰 Index “Solutions Zoran” — dernier mois (pack d’ordre)
 
