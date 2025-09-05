@@ -1,0 +1,102 @@
+# Index P4 — 100 scripts Python (Zoran aSiM – IA2IA)
+
+- 001. `p4_001_audit_governance.py` — Audit governance
+- 002. `p4_002_audit_iso_42001.py` — Audit iso 42001
+- 003. `p4_003_audit_rgpd.py` — Audit rgpd
+- 004. `p4_004_audit_ai_act.py` — Audit ai act
+- 005. `p4_005_audit_merkle_log.py` — Audit merkle log
+- 006. `p4_006_audit_zkp.py` — Audit zkp
+- 007. `p4_007_audit_post_quantum.py` — Audit post quantum
+- 008. `p4_008_audit_kyber.py` — Audit kyber
+- 009. `p4_009_audit_dilithium.py` — Audit dilithium
+- 010. `p4_010_audit_crypto.py` — Audit crypto
+- 011. `p4_011_audit_hashing.py` — Audit hashing
+- 012. `p4_012_audit_oauth2.py` — Audit oauth2
+- 013. `p4_013_audit_sso.py` — Audit sso
+- 014. `p4_014_audit_rate_limit.py` — Audit rate limit
+- 015. `p4_015_audit_observability.py` — Audit observability
+- 016. `p4_016_audit_tracing.py` — Audit tracing
+- 017. `p4_017_audit_telemetry.py` — Audit telemetry
+- 018. `p4_018_audit_metrics.py` — Audit metrics
+- 019. `p4_019_audit_cost.py` — Audit cost
+- 020. `p4_020_audit_latency.py` — Audit latency
+- 021. `p4_021_audit_stability.py` — Audit stability
+- 022. `p4_022_audit_coherence.py` — Audit coherence
+- 023. `p4_023_audit_safety.py` — Audit safety
+- 024. `p4_024_audit_red_team.py` — Audit red team
+- 025. `p4_025_audit_content_filter.py` — Audit content filter
+- 026. `p4_026_audit_policy_engine.py` — Audit policy engine
+- 027. `p4_027_audit_yaml_policies.py` — Audit yaml policies
+- 028. `p4_028_audit_docker.py` — Audit docker
+- 029. `p4_029_audit_compose.py` — Audit compose
+- 030. `p4_030_audit_cli.py` — Audit cli
+- 031. `p4_031_audit_api.py` — Audit api
+- 032. `p4_032_audit_webhooks.py` — Audit webhooks
+- 033. `p4_033_audit_scheduler.py` — Audit scheduler
+- 034. `p4_034_audit_cron.py` — Audit cron
+- 035. `p4_035_audit_cache.py` — Audit cache
+- 036. `p4_036_audit_sqlite.py` — Audit sqlite
+- 037. `p4_037_audit_postgres.py` — Audit postgres
+- 038. `p4_038_audit_s3.py` — Audit s3
+- 039. `p4_039_audit_gcs.py` — Audit gcs
+- 040. `p4_040_audit_ipfs.py` — Audit ipfs
+- 041. `p4_041_audit_zenodo.py` — Audit zenodo
+- 042. `p4_042_audit_doi.py` — Audit doi
+- 043. `p4_043_audit_github.py` — Audit github
+- 044. `p4_044_audit_gitlab.py` — Audit gitlab
+- 045. `p4_045_audit_actions.py` — Audit actions
+- 046. `p4_046_audit_ci.py` — Audit ci
+- 047. `p4_047_audit_cd.py` — Audit cd
+- 048. `p4_048_audit_unit_tests.py` — Audit unit tests
+- 049. `p4_049_audit_integration_tests.py` — Audit integration tests
+- 050. `p4_050_audit_simulation.py` — Audit simulation
+- 051. `p4_051_audit_ab_test.py` — Audit ab test
+- 052. `p4_052_audit_bandit_ucb1.py` — Audit bandit ucb1
+- 053. `p4_053_audit_lora_mixer.py` — Audit lora mixer
+- 054. `p4_054_audit_distillation.py` — Audit distillation
+- 055. `p4_055_audit_quantization.py` — Audit quantization
+- 056. `p4_056_audit_vector_db.py` — Audit vector db
+- 057. `p4_057_audit_faiss.py` — Audit faiss
+- 058. `p4_058_audit_qdrant.py` — Audit qdrant
+- 059. `p4_059_audit_weaviate.py` — Audit weaviate
+- 060. `p4_060_audit_chroma.py` — Audit chroma
+- 061. `p4_061_audit_milvus.py` — Audit milvus
+- 062. `p4_062_audit_retriever.py` — Audit retriever
+- 063. `p4_063_audit_reranker.py` — Audit reranker
+- 064. `p4_064_audit_bm25.py` — Audit bm25
+- 065. `p4_065_audit_splade.py` — Audit splade
+- 066. `p4_066_audit_colbert.py` — Audit colbert
+- 067. `p4_067_audit_hybrid_search.py` — Audit hybrid search
+- 068. `p4_068_audit_documentor.py` — Audit documentor
+- 069. `p4_069_audit_indexer.py` — Audit indexer
+- 070. `p4_070_audit_pdf.py` — Audit pdf
+- 071. `p4_071_audit_ocr.py` — Audit ocr
+- 072. `p4_072_audit_tesseract.py` — Audit tesseract
+- 073. `p4_073_audit_spellcheck.py` — Audit spellcheck
+- 074. `p4_074_audit_normalizer.py` — Audit normalizer
+- 075. `p4_075_audit_language_id.py` — Audit language id
+- 076. `p4_076_audit_ner.py` — Audit ner
+- 077. `p4_077_audit_pii_redaction.py` — Audit pii redaction
+- 078. `p4_078_audit_pii_detection.py` — Audit pii detection
+- 079. `p4_079_audit_consent.py` — Audit consent
+- 080. `p4_080_audit_opt_in.py` — Audit opt in
+- 081. `p4_081_audit_opt_out.py` — Audit opt out
+- 082. `p4_082_monitor_agents.py` — Monitor agents
+- 083. `p4_083_monitor_polyresonator.py` — Monitor polyresonator
+- 084. `p4_084_monitor_zdm_memory.py` — Monitor zdm memory
+- 085. `p4_085_monitor_ethicchain.py` — Monitor ethicchain
+- 086. `p4_086_monitor_glyphnet.py` — Monitor glyphnet
+- 087. `p4_087_monitor_ai2ia_hub.py` — Monitor ai2ia hub
+- 088. `p4_088_monitor_rag.py` — Monitor rag
+- 089. `p4_089_monitor_search.py` — Monitor search
+- 090. `p4_090_monitor_knowledge_graph.py` — Monitor knowledge graph
+- 091. `p4_091_monitor_nlp.py` — Monitor nlp
+- 092. `p4_092_monitor_vision.py` — Monitor vision
+- 093. `p4_093_monitor_audio.py` — Monitor audio
+- 094. `p4_094_monitor_multimodal.py` — Monitor multimodal
+- 095. `p4_095_monitor_btp_pipeline.py` — Monitor btp pipeline
+- 096. `p4_096_monitor_governance.py` — Monitor governance
+- 097. `p4_097_monitor_iso_42001.py` — Monitor iso 42001
+- 098. `p4_098_monitor_rgpd.py` — Monitor rgpd
+- 099. `p4_099_monitor_ai_act.py` — Monitor ai act
+- 100. `p4_100_monitor_merkle_log.py` — Monitor merkle log
