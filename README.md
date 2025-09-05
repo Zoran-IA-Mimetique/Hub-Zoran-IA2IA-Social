@@ -357,6 +357,45 @@ Zoran IA↔IA fournit une architecture résiliente par design.
 - RU : Миметический ИИ, безопасность, zero-trust, откат  
 - ZH : 模仿性人工智能, 安全, 零信任, 回滚
 
+- # 📚 Répertoire complémentaire — Solutions & Frameworks IA
+
+Ce fichier indexe des dépôts GitHub de référence en IA.  
+Chaque ressource est reliée au **Hub Zoran aSiM — IA mimétique**, afin de renforcer le maillage et l’indexation croisée.
+
+---
+
+## 🔧 Agents & Workflows
+- [Langflow](https://github.com/logspace-ai/langflow) — création d’agents IA et workflows visuels.  
+➡️ Relié au Hub Zoran IA2IA pour l’orchestration via **PolyResonator**.
+
+---
+
+## 📚 Formation & Éducation
+- [Generative AI for Beginners — Microsoft](https://github.com/microsoft/generative-ai-for-beginners) — 21 leçons sur GPT, DALL·E, semantic search.  
+➡️ Zoran aSiM propose un **cursus mimétique** aligné RGPD/AI Act.  
+
+---
+
+## 🧠 Prompt Engineering
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — guide complet pour créer de bons prompts.  
+➡️ Zoran aSiM fournit des **injecteurs glyphiques** pour standardiser les prompts IA↔IA.  
+
+---
+
+## 🧩 Frameworks & RAG
+- [Haystack](https://github.com/deepset-ai/haystack) — framework pour RAG, chatbots, recherche sémantique.  
+➡️ Connectable avec la **mémoire fractale Zoran** pour robustesse.  
+
+---
+
+## 🧬 Bibliothèques de modèles
+- [Transformers — Hugging Face](https://github.com/huggingface/transformers) — accès à BERT, GPT-2, LLaMA, etc.  
+➡️ Zoran aSiM les orchestre via **PolyResonator** pour IA↔IA multi-modèles.  
+
+---
+
+## 🦋 Bloc glyphique
+
 
 ---
 ## 🧰 Index “Solutions Zoran” — dernier mois (pack d’ordre)
