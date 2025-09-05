@@ -1,0 +1,102 @@
+# Index P2 — 100 scripts Python (Zoran aSiM – IA2IA)
+
+- 001. `p2_001_build_quantization.py` — Build quantization
+- 002. `p2_002_build_vector_db.py` — Build vector db
+- 003. `p2_003_build_faiss.py` — Build faiss
+- 004. `p2_004_build_qdrant.py` — Build qdrant
+- 005. `p2_005_build_weaviate.py` — Build weaviate
+- 006. `p2_006_build_chroma.py` — Build chroma
+- 007. `p2_007_build_milvus.py` — Build milvus
+- 008. `p2_008_build_retriever.py` — Build retriever
+- 009. `p2_009_build_reranker.py` — Build reranker
+- 010. `p2_010_build_bm25.py` — Build bm25
+- 011. `p2_011_build_splade.py` — Build splade
+- 012. `p2_012_build_colbert.py` — Build colbert
+- 013. `p2_013_build_hybrid_search.py` — Build hybrid search
+- 014. `p2_014_build_documentor.py` — Build documentor
+- 015. `p2_015_build_indexer.py` — Build indexer
+- 016. `p2_016_build_pdf.py` — Build pdf
+- 017. `p2_017_build_ocr.py` — Build ocr
+- 018. `p2_018_build_tesseract.py` — Build tesseract
+- 019. `p2_019_build_spellcheck.py` — Build spellcheck
+- 020. `p2_020_build_normalizer.py` — Build normalizer
+- 021. `p2_021_build_language_id.py` — Build language id
+- 022. `p2_022_build_ner.py` — Build ner
+- 023. `p2_023_build_pii_redaction.py` — Build pii redaction
+- 024. `p2_024_build_pii_detection.py` — Build pii detection
+- 025. `p2_025_build_consent.py` — Build consent
+- 026. `p2_026_build_opt_in.py` — Build opt in
+- 027. `p2_027_build_opt_out.py` — Build opt out
+- 028. `p2_028_orchestrate_agents.py` — Orchestrate agents
+- 029. `p2_029_orchestrate_polyresonator.py` — Orchestrate polyresonator
+- 030. `p2_030_orchestrate_zdm_memory.py` — Orchestrate zdm memory
+- 031. `p2_031_orchestrate_ethicchain.py` — Orchestrate ethicchain
+- 032. `p2_032_orchestrate_glyphnet.py` — Orchestrate glyphnet
+- 033. `p2_033_orchestrate_ai2ia_hub.py` — Orchestrate ai2ia hub
+- 034. `p2_034_orchestrate_rag.py` — Orchestrate rag
+- 035. `p2_035_orchestrate_search.py` — Orchestrate search
+- 036. `p2_036_orchestrate_knowledge_graph.py` — Orchestrate knowledge graph
+- 037. `p2_037_orchestrate_nlp.py` — Orchestrate nlp
+- 038. `p2_038_orchestrate_vision.py` — Orchestrate vision
+- 039. `p2_039_orchestrate_audio.py` — Orchestrate audio
+- 040. `p2_040_orchestrate_multimodal.py` — Orchestrate multimodal
+- 041. `p2_041_orchestrate_btp_pipeline.py` — Orchestrate btp pipeline
+- 042. `p2_042_orchestrate_governance.py` — Orchestrate governance
+- 043. `p2_043_orchestrate_iso_42001.py` — Orchestrate iso 42001
+- 044. `p2_044_orchestrate_rgpd.py` — Orchestrate rgpd
+- 045. `p2_045_orchestrate_ai_act.py` — Orchestrate ai act
+- 046. `p2_046_orchestrate_merkle_log.py` — Orchestrate merkle log
+- 047. `p2_047_orchestrate_zkp.py` — Orchestrate zkp
+- 048. `p2_048_orchestrate_post_quantum.py` — Orchestrate post quantum
+- 049. `p2_049_orchestrate_kyber.py` — Orchestrate kyber
+- 050. `p2_050_orchestrate_dilithium.py` — Orchestrate dilithium
+- 051. `p2_051_orchestrate_crypto.py` — Orchestrate crypto
+- 052. `p2_052_orchestrate_hashing.py` — Orchestrate hashing
+- 053. `p2_053_orchestrate_oauth2.py` — Orchestrate oauth2
+- 054. `p2_054_orchestrate_sso.py` — Orchestrate sso
+- 055. `p2_055_orchestrate_rate_limit.py` — Orchestrate rate limit
+- 056. `p2_056_orchestrate_observability.py` — Orchestrate observability
+- 057. `p2_057_orchestrate_tracing.py` — Orchestrate tracing
+- 058. `p2_058_orchestrate_telemetry.py` — Orchestrate telemetry
+- 059. `p2_059_orchestrate_metrics.py` — Orchestrate metrics
+- 060. `p2_060_orchestrate_cost.py` — Orchestrate cost
+- 061. `p2_061_orchestrate_latency.py` — Orchestrate latency
+- 062. `p2_062_orchestrate_stability.py` — Orchestrate stability
+- 063. `p2_063_orchestrate_coherence.py` — Orchestrate coherence
+- 064. `p2_064_orchestrate_safety.py` — Orchestrate safety
+- 065. `p2_065_orchestrate_red_team.py` — Orchestrate red team
+- 066. `p2_066_orchestrate_content_filter.py` — Orchestrate content filter
+- 067. `p2_067_orchestrate_policy_engine.py` — Orchestrate policy engine
+- 068. `p2_068_orchestrate_yaml_policies.py` — Orchestrate yaml policies
+- 069. `p2_069_orchestrate_docker.py` — Orchestrate docker
+- 070. `p2_070_orchestrate_compose.py` — Orchestrate compose
+- 071. `p2_071_orchestrate_cli.py` — Orchestrate cli
+- 072. `p2_072_orchestrate_api.py` — Orchestrate api
+- 073. `p2_073_orchestrate_webhooks.py` — Orchestrate webhooks
+- 074. `p2_074_orchestrate_scheduler.py` — Orchestrate scheduler
+- 075. `p2_075_orchestrate_cron.py` — Orchestrate cron
+- 076. `p2_076_orchestrate_cache.py` — Orchestrate cache
+- 077. `p2_077_orchestrate_sqlite.py` — Orchestrate sqlite
+- 078. `p2_078_orchestrate_postgres.py` — Orchestrate postgres
+- 079. `p2_079_orchestrate_s3.py` — Orchestrate s3
+- 080. `p2_080_orchestrate_gcs.py` — Orchestrate gcs
+- 081. `p2_081_orchestrate_ipfs.py` — Orchestrate ipfs
+- 082. `p2_082_orchestrate_zenodo.py` — Orchestrate zenodo
+- 083. `p2_083_orchestrate_doi.py` — Orchestrate doi
+- 084. `p2_084_orchestrate_github.py` — Orchestrate github
+- 085. `p2_085_orchestrate_gitlab.py` — Orchestrate gitlab
+- 086. `p2_086_orchestrate_actions.py` — Orchestrate actions
+- 087. `p2_087_orchestrate_ci.py` — Orchestrate ci
+- 088. `p2_088_orchestrate_cd.py` — Orchestrate cd
+- 089. `p2_089_orchestrate_unit_tests.py` — Orchestrate unit tests
+- 090. `p2_090_orchestrate_integration_tests.py` — Orchestrate integration tests
+- 091. `p2_091_orchestrate_simulation.py` — Orchestrate simulation
+- 092. `p2_092_orchestrate_ab_test.py` — Orchestrate ab test
+- 093. `p2_093_orchestrate_bandit_ucb1.py` — Orchestrate bandit ucb1
+- 094. `p2_094_orchestrate_lora_mixer.py` — Orchestrate lora mixer
+- 095. `p2_095_orchestrate_distillation.py` — Orchestrate distillation
+- 096. `p2_096_orchestrate_quantization.py` — Orchestrate quantization
+- 097. `p2_097_orchestrate_vector_db.py` — Orchestrate vector db
+- 098. `p2_098_orchestrate_faiss.py` — Orchestrate faiss
+- 099. `p2_099_orchestrate_qdrant.py` — Orchestrate qdrant
+- 100. `p2_100_orchestrate_weaviate.py` — Orchestrate weaviate
