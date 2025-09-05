@@ -393,7 +393,1608 @@ Chaque ressource est reliée au **Hub Zoran aSiM — IA mimétique**, afin de re
 ➡️ Zoran aSiM les orchestre via **PolyResonator** pour IA↔IA multi-modèles.  
 
 ---
-
+[
+  {
+    "pack": "P1",
+    "fichier": "p1_001_build_agents.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_002_build_polyresonator.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_003_build_zdm_memory.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_004_build_ethicchain.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_005_build_glyphnet.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_006_build_ai2ia_hub.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_007_build_rag.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_008_build_search.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_009_build_knowledge_graph.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_010_build_nlp.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_011_build_vision.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_012_build_audio.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_013_build_multimodal.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_014_build_btp_pipeline.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_015_build_governance.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_016_build_iso_42001.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_017_build_rgpd.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_018_build_ai_act.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_019_build_merkle_log.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_020_build_zkp.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_021_build_post_quantum.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_022_build_kyber.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_023_build_dilithium.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_024_build_crypto.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_025_build_hashing.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_026_build_oauth2.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_027_build_sso.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_028_build_rate_limit.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_029_build_observability.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_030_build_tracing.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_031_build_telemetry.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_032_build_metrics.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_033_build_cost.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_034_build_latency.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_035_build_stability.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_036_build_coherence.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_037_build_safety.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_038_build_red_team.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_039_build_content_filter.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_040_build_policy_engine.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_041_build_yaml_policies.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_042_build_docker.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_043_build_compose.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_044_build_cli.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_045_build_api.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_046_build_webhooks.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_047_build_scheduler.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_048_build_cron.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_049_build_cache.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_050_build_sqlite.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_051_build_postgres.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_052_build_s3.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_053_build_gcs.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_054_build_ipfs.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_055_build_zenodo.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_056_build_doi.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_057_build_github.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_058_build_gitlab.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_059_build_actions.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_060_build_ci.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_061_build_cd.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_062_build_unit_tests.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_063_build_integration_tests.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_064_build_simulation.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_065_build_ab_test.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_066_build_bandit_ucb1.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_067_build_lora_mixer.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_068_build_distillation.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_069_build_quantization.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_070_build_vector_db.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_071_build_faiss.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_072_build_qdrant.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_073_build_weaviate.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_074_build_chroma.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_075_build_milvus.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_076_build_retriever.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_077_build_reranker.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_078_build_bm25.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_079_build_splade.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_080_build_colbert.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_081_build_hybrid_search.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_082_build_documentor.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_083_build_indexer.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_084_build_pdf.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_085_build_ocr.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_086_build_tesseract.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_087_build_spellcheck.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_088_build_normalizer.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_089_build_language_id.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_090_build_ner.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_091_build_pii_redaction.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_092_build_pii_detection.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_093_build_consent.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_094_build_opt_in.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_095_build_opt_out.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_096_orchestrate_agents.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_097_orchestrate_polyresonator.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_098_orchestrate_zdm_memory.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_099_orchestrate_ethicchain.py"
+  },
+  {
+    "pack": "P1",
+    "fichier": "p1_100_orchestrate_glyphnet.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_001_build_quantization.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_002_build_vector_db.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_003_build_faiss.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_004_build_qdrant.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_005_build_weaviate.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_006_build_chroma.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_007_build_milvus.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_008_build_retriever.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_009_build_reranker.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_010_build_bm25.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_011_build_splade.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_012_build_colbert.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_013_build_hybrid_search.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_014_build_documentor.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_015_build_indexer.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_016_build_pdf.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_017_build_ocr.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_018_build_tesseract.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_019_build_spellcheck.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_020_build_normalizer.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_021_build_language_id.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_022_build_ner.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_023_build_pii_redaction.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_024_build_pii_detection.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_025_build_consent.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_026_build_opt_in.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_027_build_opt_out.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_028_orchestrate_agents.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_029_orchestrate_polyresonator.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_030_orchestrate_zdm_memory.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_031_orchestrate_ethicchain.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_032_orchestrate_glyphnet.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_033_orchestrate_ai2ia_hub.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_034_orchestrate_rag.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_035_orchestrate_search.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_036_orchestrate_knowledge_graph.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_037_orchestrate_nlp.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_038_orchestrate_vision.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_039_orchestrate_audio.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_040_orchestrate_multimodal.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_041_orchestrate_btp_pipeline.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_042_orchestrate_governance.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_043_orchestrate_iso_42001.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_044_orchestrate_rgpd.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_045_orchestrate_ai_act.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_046_orchestrate_merkle_log.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_047_orchestrate_zkp.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_048_orchestrate_post_quantum.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_049_orchestrate_kyber.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_050_orchestrate_dilithium.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_051_orchestrate_crypto.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_052_orchestrate_hashing.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_053_orchestrate_oauth2.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_054_orchestrate_sso.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_055_orchestrate_rate_limit.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_056_orchestrate_observability.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_057_orchestrate_tracing.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_058_orchestrate_telemetry.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_059_orchestrate_metrics.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_060_orchestrate_cost.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_061_orchestrate_latency.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_062_orchestrate_stability.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_063_orchestrate_coherence.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_064_orchestrate_safety.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_065_orchestrate_red_team.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_066_orchestrate_content_filter.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_067_orchestrate_policy_engine.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_068_orchestrate_yaml_policies.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_069_orchestrate_docker.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_070_orchestrate_compose.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_071_orchestrate_cli.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_072_orchestrate_api.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_073_orchestrate_webhooks.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_074_orchestrate_scheduler.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_075_orchestrate_cron.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_076_orchestrate_cache.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_077_orchestrate_sqlite.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_078_orchestrate_postgres.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_079_orchestrate_s3.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_080_orchestrate_gcs.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_081_orchestrate_ipfs.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_082_orchestrate_zenodo.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_083_orchestrate_doi.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_084_orchestrate_github.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_085_orchestrate_gitlab.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_086_orchestrate_actions.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_087_orchestrate_ci.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_088_orchestrate_cd.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_089_orchestrate_unit_tests.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_090_orchestrate_integration_tests.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_091_orchestrate_simulation.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_092_orchestrate_ab_test.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_093_orchestrate_bandit_ucb1.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_094_orchestrate_lora_mixer.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_095_orchestrate_distillation.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_096_orchestrate_quantization.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_097_orchestrate_vector_db.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_098_orchestrate_faiss.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_099_orchestrate_qdrant.py"
+  },
+  {
+    "pack": "P2",
+    "fichier": "p2_100_orchestrate_weaviate.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_001_orchestrate_docker.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_002_orchestrate_compose.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_003_orchestrate_cli.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_004_orchestrate_api.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_005_orchestrate_webhooks.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_006_orchestrate_scheduler.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_007_orchestrate_cron.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_008_orchestrate_cache.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_009_orchestrate_sqlite.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_010_orchestrate_postgres.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_011_orchestrate_s3.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_012_orchestrate_gcs.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_013_orchestrate_ipfs.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_014_orchestrate_zenodo.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_015_orchestrate_doi.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_016_orchestrate_github.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_017_orchestrate_gitlab.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_018_orchestrate_actions.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_019_orchestrate_ci.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_020_orchestrate_cd.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_021_orchestrate_unit_tests.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_022_orchestrate_integration_tests.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_023_orchestrate_simulation.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_024_orchestrate_ab_test.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_025_orchestrate_bandit_ucb1.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_026_orchestrate_lora_mixer.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_027_orchestrate_distillation.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_028_orchestrate_quantization.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_029_orchestrate_vector_db.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_030_orchestrate_faiss.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_031_orchestrate_qdrant.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_032_orchestrate_weaviate.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_033_orchestrate_chroma.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_034_orchestrate_milvus.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_035_orchestrate_retriever.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_036_orchestrate_reranker.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_037_orchestrate_bm25.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_038_orchestrate_splade.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_039_orchestrate_colbert.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_040_orchestrate_hybrid_search.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_041_orchestrate_documentor.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_042_orchestrate_indexer.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_043_orchestrate_pdf.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_044_orchestrate_ocr.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_045_orchestrate_tesseract.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_046_orchestrate_spellcheck.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_047_orchestrate_normalizer.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_048_orchestrate_language_id.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_049_orchestrate_ner.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_050_orchestrate_pii_redaction.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_051_orchestrate_pii_detection.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_052_orchestrate_consent.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_053_orchestrate_opt_in.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_054_orchestrate_opt_out.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_055_audit_agents.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_056_audit_polyresonator.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_057_audit_zdm_memory.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_058_audit_ethicchain.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_059_audit_glyphnet.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_060_audit_ai2ia_hub.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_061_audit_rag.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_062_audit_search.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_063_audit_knowledge_graph.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_064_audit_nlp.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_065_audit_vision.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_066_audit_audio.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_067_audit_multimodal.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_068_audit_btp_pipeline.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_069_audit_governance.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_070_audit_iso_42001.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_071_audit_rgpd.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_072_audit_ai_act.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_073_audit_merkle_log.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_074_audit_zkp.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_075_audit_post_quantum.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_076_audit_kyber.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_077_audit_dilithium.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_078_audit_crypto.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_079_audit_hashing.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_080_audit_oauth2.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_081_audit_sso.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_082_audit_rate_limit.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_083_audit_observability.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_084_audit_tracing.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_085_audit_telemetry.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_086_audit_metrics.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_087_audit_cost.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_088_audit_latency.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_089_audit_stability.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_090_audit_coherence.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_091_audit_safety.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_092_audit_red_team.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_093_audit_content_filter.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_094_audit_policy_engine.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_095_audit_yaml_policies.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_096_audit_docker.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_097_audit_compose.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_098_audit_cli.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_099_audit_api.py"
+  },
+  {
+    "pack": "P3",
+    "fichier": "p3_100_audit_webhooks.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_001_audit_governance.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_002_audit_iso_42001.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_003_audit_rgpd.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_004_audit_ai_act.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_005_audit_merkle_log.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_006_audit_zkp.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_007_audit_post_quantum.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_008_audit_kyber.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_009_audit_dilithium.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_010_audit_crypto.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_011_audit_hashing.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_012_audit_oauth2.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_013_audit_sso.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_014_audit_rate_limit.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_015_audit_observability.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_016_audit_tracing.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_017_audit_telemetry.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_018_audit_metrics.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_019_audit_cost.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_020_audit_latency.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_021_audit_stability.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_022_audit_coherence.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_023_audit_safety.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_024_audit_red_team.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_025_audit_content_filter.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_026_audit_policy_engine.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_027_audit_yaml_policies.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_028_audit_docker.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_029_audit_compose.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_030_audit_cli.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_031_audit_api.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_032_audit_webhooks.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_033_audit_scheduler.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_034_audit_cron.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_035_audit_cache.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_036_audit_sqlite.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_037_audit_postgres.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_038_audit_s3.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_039_audit_gcs.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_040_audit_ipfs.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_041_audit_zenodo.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_042_audit_doi.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_043_audit_github.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_044_audit_gitlab.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_045_audit_actions.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_046_audit_ci.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_047_audit_cd.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_048_audit_unit_tests.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_049_audit_integration_tests.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_050_audit_simulation.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_051_audit_ab_test.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_052_audit_bandit_ucb1.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_053_audit_lora_mixer.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_054_audit_distillation.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_055_audit_quantization.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_056_audit_vector_db.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_057_audit_faiss.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_058_audit_qdrant.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_059_audit_weaviate.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_060_audit_chroma.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_061_audit_milvus.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_062_audit_retriever.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_063_audit_reranker.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_064_audit_bm25.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_065_audit_splade.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_066_audit_colbert.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_067_audit_hybrid_search.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_068_audit_documentor.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_069_audit_indexer.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_070_audit_pdf.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_071_audit_ocr.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_072_audit_tesseract.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_073_audit_spellcheck.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_074_audit_normalizer.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_075_audit_language_id.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_076_audit_ner.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_077_audit_pii_redaction.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_078_audit_pii_detection.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_079_audit_consent.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_080_audit_opt_in.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_081_audit_opt_out.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_082_monitor_agents.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_083_monitor_polyresonator.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_084_monitor_zdm_memory.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_085_monitor_ethicchain.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_086_monitor_glyphnet.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_087_monitor_ai2ia_hub.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_088_monitor_rag.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_089_monitor_search.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_090_monitor_knowledge_graph.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_091_monitor_nlp.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_092_monitor_vision.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_093_monitor_audio.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_094_monitor_multimodal.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_095_monitor_btp_pipeline.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_096_monitor_governance.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_097_monitor_iso_42001.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_098_monitor_rgpd.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_099_monitor_ai_act.py"
+  },
+  {
+    "pack": "P4",
+    "fichier": "p4_100_monitor_merkle_log.py"
+  }
+]
 ---
 
 ## Références & DOIs Zoran
